@@ -1,6 +1,5 @@
 # Hello World, I'm Becca 🚀
 
-
 [![LINE](https://img.shields.io/badge/LINE-5CA179?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/SVeSwye3Su)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5A7EA1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzu-han-lin-778792130)
 [![Discord](https://img.shields.io/badge/Discord-7D6A8C?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/852107753765994496)
@@ -9,8 +8,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-D08C5F?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hihibecca)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-77BFA3?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/886958250090)
 
-<div style="margin-top:40px;"></div>
-
+&nbsp;
 
 ## Stat Card
 
@@ -19,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=beccalzh&theme=calm&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="beccalzh" /></p>
 
-<div style="margin-top:40px;"></div>
+&nbsp;
 
 ## Related Link
 
@@ -29,7 +27,7 @@
 
 #### - Open Source Community: [PyLadies Taiwan](https://tw.pyladies.com/)
 
-<div style="margin-top:50px;"></div>
+&nbsp;
 
 ## Skill Set
 
@@ -68,8 +66,7 @@
         <img src="https://avatars.githubusercontent.com/u/126733545?v=4" alt="LangChain" height="40"/> 
     </a> ｜
     <a href="https://www.trychroma.com/"> 
-        <img src="
-https://docs-sooty-chi.vercel.app/img/chroma.png" alt="Chroma" height="40"/> 
+        <img src="https://docs-sooty-chi.vercel.app/img/chroma.png" alt="Chroma" height="40"/> 
     </a> ｜
     <a href="https://openai.com/"> 
         <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI" height="40"/> 
