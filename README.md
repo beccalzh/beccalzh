@@ -1,4 +1,8 @@
-# Hello World, I'm Becca 🚀
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There,+I'm+Becca;Welcome+to+my+Github+🚀&center=true&size=26&color=D8A1C4">
+  </a>
+</h1>
 
 [![LINE](https://img.shields.io/badge/LINE-5CA179?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/SVeSwye3Su)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5A7EA1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzu-han-lin-778792130)
