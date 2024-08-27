@@ -11,6 +11,8 @@
 [![Medium](https://img.shields.io/badge/Medium-8C8C8C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@beccalin.8359)
 [![GitLab](https://img.shields.io/badge/GitLab-D08C5F?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hihibecca)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-77BFA3?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/886958250090)
+[![HackMD](https://img.shields.io/badge/HackMD-708090?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@bF1OQ9axTNKvuB6AFFyt3g)
+
 
 &nbsp;
 
