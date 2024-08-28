@@ -1,21 +1,4 @@
 name: Latest blog post
-<<<<<<< HEAD
-on:
-    schedule:
-        # Runs at 9pm UTC
-        - cron: "30 12 * * *"
-    workflow_dispatch:
-jobs:
-    update-readme-with-blog:
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with:
-                  max_post_count: "5"
-                  feed_list: "https://medium.com/feed/@beccalin.8359"
-=======
 
 on:
   schedule:
@@ -54,4 +37,3 @@ jobs:
             git commit -m "Updated README with latest blog posts"
             git push
           fi
->>>>>>> origin/main
