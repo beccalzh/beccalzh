@@ -1,4 +1,5 @@
 name: Latest blog post
+<<<<<<< HEAD
 on:
     schedule:
         # Runs at 9pm UTC
@@ -14,3 +15,43 @@ jobs:
               with:
                   max_post_count: "5"
                   feed_list: "https://medium.com/feed/@beccalin.8359"
+=======
+
+on:
+  schedule:
+    # Runs at 1:30pm UTC
+    - cron: "30 13 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          feed_list: "https://medium.com/feed/@beccalin.8359"
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Check if there are changes to commit
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "Updated README with latest blog posts"
+            git push
+          fi
+>>>>>>> origin/main
