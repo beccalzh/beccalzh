@@ -13,7 +13,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-77BFA3?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/886958250090)
 [![HackMD](https://img.shields.io/badge/HackMD-708090?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@bF1OQ9axTNKvuB6AFFyt3g)
 
-
 &nbsp;
 
 ## Stat Card
@@ -26,7 +25,12 @@
 
 ## Related Link
 
-#### - Latest Article: [Automating Arrival Notifications via Apple Shortcuts](https://medium.com/@beccalin.8359/%E7%94%A8%E8%98%8B%E6%9E%9C%E6%8D%B7%E5%BE%91%E8%87%AA%E5%8B%95%E5%A0%B1%E5%82%99-f1732dd9f348)
+<!-- #### - Latest Article: [Automating Arrival Notifications via Apple Shortcuts](https://medium.com/@beccalin.8359/%E7%94%A8%E8%98%8B%E6%9E%9C%E6%8D%B7%E5%BE%91%E8%87%AA%E5%8B%95%E5%A0%B1%E5%82%99-f1732dd9f348) -->
+
+#### - Latest Article:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #### - Open Source Project: [Python Documentation Translation](https://github.com/python/python-docs-zh-tw)
 
