@@ -2,7 +2,7 @@ name: Latest blog post
 on:
     schedule:
         # Runs at 9pm UTC
-        - cron: "30 12 * * *"
+        - cron: "00 13 * * *"
     workflow_dispatch:
 jobs:
     update-readme-with-blog:
