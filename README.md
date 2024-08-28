@@ -30,6 +30,7 @@
 #### Latest Article:
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Arrival Notifications via Apple Shortcuts](https://medium.com/@beccalin.8359/%E7%94%A8%E8%98%8B%E6%9E%9C%E6%8D%B7%E5%BE%91%E8%87%AA%E5%8B%95%E5%A0%B1%E5%82%99-f1732dd9f348?source=rss-89e6a457b9aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Open Source Project: 
