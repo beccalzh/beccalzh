@@ -88,7 +88,7 @@
 ### Data Engineering
 <p aligh="left"> 
      <a href="https://flask.palletsprojects.com/"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" height="40"/> 
     </a> ｜
     <a href="https://postman.com"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/> 
