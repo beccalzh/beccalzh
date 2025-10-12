@@ -4,13 +4,9 @@
   </a>
 </h1>
 
-[![LINE](https://img.shields.io/badge/LINE-5CA179?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/SVeSwye3Su)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5A7EA1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzu-han-lin-778792130)
-[![Discord](https://img.shields.io/badge/Discord-7D6A8C?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/852107753765994496)
-[![Twitch](https://img.shields.io/badge/Twitch-6E50A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/bebecca87)
+[![Twitch](https://img.shields.io/badge/Twitch-6E50A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/normai_becca)
 [![Medium](https://img.shields.io/badge/Medium-8C8C8C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@beccalin.8359)
-[![GitLab](https://img.shields.io/badge/GitLab-D08C5F?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hihibecca)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-77BFA3?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/886958250090)
 
 &nbsp;
 
