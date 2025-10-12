@@ -116,6 +116,8 @@
     <a href="https://aws.amazon.com"> 
         <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d778954b-6cd4-4c7e-9010-5b86b708bbb0.png" alt="aws" height="40"/> 
     </a>
+    <a href="https://cloud.google.com/">
+        <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" alt="gcp" height="40"/>
 </p>
 
 ### Others
