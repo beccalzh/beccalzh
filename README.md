@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5A7EA1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzu-han-lin-778792130)
 [![Twitch](https://img.shields.io/badge/Twitch-6E50A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/normai_becca)
 [![Medium](https://img.shields.io/badge/Medium-8C8C8C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@beccalin.8359)
+[![Hashnode](https://img.shields.io/badge/Hashnode-403ED6?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@NormAI)
 
 &nbsp;
 
